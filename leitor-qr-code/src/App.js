@@ -1,10 +1,11 @@
-import React from 'react';
-import LeitorQRCode from './qrcode';
+import './App.css';
 
-class App extends React.Component {
-  render() {
-    return (<LeitorQRCode />);
-  }
+function App() {
+  return (
+    <div>
+      <>QR Code</>
+    </div>
+  );
 }
 
 export default App;
