@@ -32,7 +32,7 @@ function App() {
         value={link}
         onChange={(e) => handleChange(e)}
       />
-    <a href={qrCodeLink} download={`qrcode.png`}>Baixar QR Code</a>
+    <button><a href={qrCodeLink} download={`qrcode.png`}>Baixar QR Code</a></button>
     
     </div>
   );

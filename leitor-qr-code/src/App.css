@@ -16,3 +16,16 @@
   outline: none;
   border: 1px solid  #b6b6b6;
 }
+
+button{
+  border: 1px solid #b6b6b6;
+  height: 38px;
+  width: 30%;
+  border-radius: 10px;
+  background-color: rgb(83, 80, 80);
+  
+}
+
+a{
+  color: #b6b6b6;
+}
