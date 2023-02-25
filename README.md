@@ -10,4 +10,4 @@ entre na pasta: cd leitor-qr-code
 
 rode o comando no terminal: npm start
 
-
+aplicação baseada nesse video: https://www.youtube.com/watch?v=cFaihdXLy5A
